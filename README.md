@@ -28,10 +28,21 @@ We use these database:
 
 **Pipline on MSK-IMPACT**
 
-```MSK_database_off_target.ipynb```
+```MSK_database_off_target.ipynb``` :
 
 After downloading the database, we downloaded from [Table Browser](https://genome.ucsc.edu/cgi-bin/hgTables?hgsid=1723543828_rv8jAZ6jYoeMPtpo2d5W7THrMVa9&clade=mammal&org=&db=hg19&hgta_group=genes&hgta_track=refSeqComposite&hgta_table=ncbiRefSeqCurated&hgta_regionType=range&position=&hgta_outputType=primaryTable&hgta_outFileName=) a list of RefSeq genes from NCBI (in hg19 annotation).
 We used this list to add a strand to the mutation and arranged the database to create a BED6 format.
 
-```add_20_dna_seq_cancer_mutatuon.sh```
-Adding a DNA sequence to the mutation - 20 bases before and 20 bases after
+```add_20_dna_seq_cancer_mutatuon.sh``` :
+
+Adding a DNA sequence to the mutation - 20 bases before and 20 bases after.
+
+```MSK_database_off_target.ipynb``` :
+
+Adding a DNA global off target.
+
+```add_local_off_target_to_S3.ipynb``` :
+
+Adding a RNA sequence and a global off-target and a local off-target at RNA level 
+
+
