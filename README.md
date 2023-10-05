@@ -27,11 +27,11 @@ We use these database:
 
 # Workflow
 
-**A. Pipline on Pediatric Cancer Panel**
+## A. Pipline on Pediatric Cancer Panel
 
 
 
-**B. Pipline on MSK-IMPACT**
+## B. Pipline on MSK-IMPACT
 
 ```MSK_database_off_target.ipynb``` :
 
@@ -51,7 +51,7 @@ Adding a DNA global off target.
 Adding a RNA sequence and a global off-target and a local off-target at RNA level 
 
 
-**C. Pipline on PCAWG project**
+## C. Pipline on PCAWG project
 
 ```ICGC_database.ipynb``` :
 
