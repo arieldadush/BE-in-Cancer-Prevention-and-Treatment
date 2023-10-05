@@ -52,3 +52,10 @@ Adding a RNA sequence and a global off-target and a local off-target at RNA leve
 
 We added a strand and checked which mutation is the strand and arranged the database according to BED6 format
 
+```add_20_dna_seq_cancer_mutatuon.sh``` :
+
+Adding a DNA sequence to the mutation - 20 bases before and 20 bases after.
+
+```add_off_target_cancer_mutations.ipynb``` :
+
+Adding a global and local off-target at DNA level
