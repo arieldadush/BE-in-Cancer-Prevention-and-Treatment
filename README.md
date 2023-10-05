@@ -1,2 +1,1 @@
 # BE-in-Cancer-Prevention-and-Treatment
-While existing research primarily focuses on applying BE to treat inherited diseases caused by single-nucleotide variants (SNVs), it may seem that BE has limited relevance in the field of oncology, given the multitude of mutations present in cancer cells. Nevertheless, we demonstrate that BE holds promise in the treatment and prevention of cancer across various tumor types.
