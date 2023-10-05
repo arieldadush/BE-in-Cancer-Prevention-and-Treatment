@@ -2,9 +2,8 @@
 While existing research primarily focuses on applying BE to treat inherited diseases caused by single-nucleotide variants (SNVs), it may seem that BE has limited relevance in the field of oncology, given the multitude of mutations present in cancer cells. Nevertheless, we demonstrate that BE holds promise in the treatment and prevention of cancer across various tumor types.
 # Genomic annotations
 We assume you have the following files:
-1. ```hg38.fa```
-2. ```hg19.fa```
-3. ```hg19_wgEncodeGencodeBasicV44lift37.fa``` 
+1. ```hg19.fa```
+2. ```hg19_wgEncodeGencodeBasicV44lift37.fa``` 
 
 ```hg38_ncbiRefSeqCurated_cds.fa```
 3. 
@@ -30,3 +29,5 @@ We use these database:
 **Pipline on MSK-IMPACT**
 
 After downloading the database, we downloaded from [Table Browser](https://genome.ucsc.edu/cgi-bin/hgTables?hgsid=1723543828_rv8jAZ6jYoeMPtpo2d5W7THrMVa9&clade=mammal&org=&db=hg19&hgta_group=genes&hgta_track=refSeqComposite&hgta_table=ncbiRefSeqCurated&hgta_regionType=range&position=&hgta_outputType=primaryTable&hgta_outFileName=) a list of RefSeq genes from NCBI (in hg19 annotation).
+We used this list to add a strand to the mutation and arranged the database to create a BED6 format.
+```MSK_database_off_target.ipynb```
