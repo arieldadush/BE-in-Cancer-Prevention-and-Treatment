@@ -4,11 +4,9 @@ While existing research primarily focuses on applying BE to treat inherited dise
 We assume you have the following files:
 1. ```hg19.fa```
 2. ```hg19_wgEncodeGencodeBasicV44lift37.fa``` 
-
-```hg38_ncbiRefSeqCurated_cds.fa```
-3. 
-5. ```GRCh38_latest_protein_shortHeders.faa```
-6. ```RefSeq Curated.gtf```
+3. ```hg38_ncbiRefSeqCurated_cds.fa``` 
+4. ```GRCh38_latest_protein_shortHeders.faa```
+5. ```RefSeq Curated.gtf```
 
 # Installation and Requirements
 ## Dependencies
