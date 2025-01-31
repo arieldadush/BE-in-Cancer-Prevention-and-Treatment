@@ -8,6 +8,9 @@ We assume you have the following files:
 4. ```GRCh38_latest_protein_shortHeders.faa```
 5. ```RefSeq Curated.gtf```
 
+Cite the code: [![DOI](https://zenodo.org/badge/700707685.svg)](https://doi.org/10.5281/zenodo.14778569)
+
+
 # Installation and Requirements
 ## Dependencies
 
