@@ -1,5 +1,7 @@
 # BE-in-Cancer-Prevention-and-Treatment
 While existing research primarily focuses on applying BE to treat inherited diseases caused by single-nucleotide variants (SNVs), it may seem that BE has limited relevance in the field of oncology, given the multitude of mutations present in cancer cells. Nevertheless, we demonstrate that BE holds promise in the treatment and prevention of cancer across various tumor types.
+
+Cite the code: [![DOI](https://zenodo.org/badge/700707685.svg)](https://doi.org/10.5281/zenodo.14778569)
 # Genomic annotations
 We assume you have the following files:
 1. ```hg19.fa```
@@ -7,8 +9,6 @@ We assume you have the following files:
 3. ```hg38_ncbiRefSeqCurated_cds.fa``` 
 4. ```GRCh38_latest_protein_shortHeders.faa```
 5. ```RefSeq Curated.gtf```
-
-Cite the code: [![DOI](https://zenodo.org/badge/700707685.svg)](https://doi.org/10.5281/zenodo.14778569)
 
 
 # Installation and Requirements
