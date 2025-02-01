@@ -43,7 +43,7 @@ Adding a DNA sequence to the mutation - 20 bases before and 20 bases after.
 
 Adding a DNA global off target.
 
-```add_local_off_target_to_S3.ipynb``` :
+```add_local_off_target.ipynb``` :
 
 Adding a RNA sequence and a global off-target and a local off-target at RNA level 
 
